@@ -11,7 +11,7 @@ func main() {
 	fmt.Println(longestPalindrome("ac"))  // "a"
 	fmt.Println(longestPalindrome("bb"))  // "bb"
 	fmt.Println(longestPalindrome("aacabdkaca"))  // "bb"
-	fmt.Println(longestPalindrome("abcda"))  // "bb"
+	fmt.Println(longestPalindrome("abcda"))  // "a"
 
 
 
